@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const Bot = new Discord.Client();
-const music = require('discord.js-music-v11');
+//const music = require('discord.js-music-v11');
 //const token = "MzkyMjgyNzY3MTQ2MzUyNjUw.DRk_uQ.wLOsUBK40o4Q-dOuN-DuRtxTvn4" // Recommended to load from json file.
 const ms = require("ms");
 const ytdl = require('ytdl-core');
